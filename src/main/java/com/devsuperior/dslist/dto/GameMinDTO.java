@@ -12,7 +12,7 @@ public class GameMinDTO {
 
 	
 	public GameMinDTO(){
-		
+		 
 	}
 
 
